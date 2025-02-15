@@ -1,2 +1,3 @@
 Ovo je primer ya dedin folder.
 
+A ovo je dodavanje linije za npp++.
